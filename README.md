@@ -1,36 +1,101 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Stopwatch & Timer App
 
-## Getting Started
+A modern and responsive Stopwatch and Countdown Timer application built with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
-First, run the development server:
+## Features
+
+### Stopwatch
+
+* Start / Stop functionality
+* Reset timer instantly
+* Real-time millisecond tracking
+* Animated rotating progress indicator
+* Clean and modern UI
+
+### Countdown Timer
+
+* Set Hours, Minutes, and Seconds
+* Start, Stop, and Reset controls
+* Live countdown display
+* Alert notification when time reaches zero
+* Easy-to-use input fields
+
+## Technologies Used
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
+
+## Project Structure
+
+```bash
+components/
+└── Timer-stopwatch.tsx
+```
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/stopwatch-timer-app.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd stopwatch-timer-app
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Usage
 
-## Learn More
+### Stopwatch
 
-To learn more about Next.js, take a look at the following resources:
+1. Click **Start** to begin timing.
+2. Click **Stop** to pause.
+3. Click **Reset** to clear the timer.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Countdown Timer
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Enter Hours, Minutes, and Seconds.
+2. Click **Set Time**.
+3. Press **Start** to begin countdown.
+4. Use **Stop** to pause and **Reset** to clear.
 
-## Deploy on Vercel
+## UI Highlights
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+* Responsive design for desktop and mobile
+* Custom color theme
+* Smooth animations
+* Professional dashboard-style layout
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Future Improvements
+
+* Lap functionality for Stopwatch
+* Sound notification for Timer completion
+* Dark/Light mode switch
+* Save timer presets
+* Progress circle for Countdown Timer
+
+## Author
+
+Created by Sana Chishti.

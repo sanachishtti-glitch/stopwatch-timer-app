@@ -34,9 +34,11 @@ npm run dev
 
 
 ## Screenshot
-![alt text](image.png)
+![Stopwatch Timer App](public/image-1.png)
 
-![alt text](image-1.png)
+
+![Countdown Timer](public/image.png)
+
 ### Stopwatch
 
 1. Click **Start** to begin timing.

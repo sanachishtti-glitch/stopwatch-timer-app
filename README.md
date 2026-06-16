@@ -1,4 +1,4 @@
-# Stopwatch & Timer App
+<h2> Stopwatch & Timer App<h2>
 
 A modern and responsive Stopwatch and Countdown Timer application built with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
@@ -27,47 +27,16 @@ A modern and responsive Stopwatch and Countdown Timer application built with **R
 * TypeScript
 * Tailwind CSS
 
-## Project Structure
-
-```bash
-components/
-└── Timer-stopwatch.tsx
-```
-
 ## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/stopwatch-timer-app.git
-```
-
-Navigate to the project folder:
-
-```bash
-cd stopwatch-timer-app
-```
-
-Install dependencies:
-
-```bash
 npm install
-```
-
-Run the development server:
-
-```bash
 npm run dev
-```
 
-Open:
 
-```bash
-http://localhost:3000
-```
+## Screenshot
+![alt text](image.png)
 
-## Usage
-
+![alt text](image-1.png)
 ### Stopwatch
 
 1. Click **Start** to begin timing.
@@ -88,14 +57,8 @@ http://localhost:3000
 * Smooth animations
 * Professional dashboard-style layout
 
-## Future Improvements
 
-* Lap functionality for Stopwatch
-* Sound notification for Timer completion
-* Dark/Light mode switch
-* Save timer presets
-* Progress circle for Countdown Timer
 
 ## Author
 
-Created by Sana Chishti.
+Created by Sana Chishtti.

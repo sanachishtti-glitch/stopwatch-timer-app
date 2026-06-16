@@ -34,15 +34,17 @@ npm run dev
 
 
 ## Screenshot
-![Stopwatch Timer App](public/image-1.png)
-
+![Stopwatch Timer App](
 <p align="center">
   <img src="public/image-1.png" width="700" alt="Stopwatch Timer App">
-</p>
+</p>)
 
 
 
-![Countdown Timer](public/image.png)
+![Countdown Timer](
+<p align="center">
+  <img src="public/image.png" width="700" alt="Stopwatch Timer App">
+</p>)
 
 ### Stopwatch
 
